@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Tree_Leaves
+  m_Shader: {fileID: 10606, guid: 0000000000000000f000000000000000, type: 0}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - Step1: 1
+    - _Cutoff: 0.3
+    - _Gloss: 10
+    - _OutlineWidth: 0.5
+    - _RimPower: 2.2
+    - _RimStep: 0.65
+    - _RimStepSmooth: 0.54
+    - _ShadowStep: 0.405
+    - _ShadowStepSmooth: 0.01
+    - _ShadowStrength: 1
+    - _SpecularStep: 0.368
+    - _SpecularStepSmooth: 0.05
+    - _SquashAmount: 1
+    - _Step: 0.432
+    - _Step1: 0.537
+    - _Step2: 0.018
+    - _Step3: 0.97
+    - _Step4: 0.025
+    - _TranslucencyViewDependency: 0.7
+    m_Colors:
+    - _BaseColor: {r: 0.021864057, g: 1, b: 0, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _HighColor: {r: 1, g: 0.41037738, b: 0.41037738, a: 1}
+    - _OutlineColor: {r: 0, g: 0, b: 0, a: 1}
+    - _RimColor: {r: 0.020856434, g: 0, b: 0.5471698, a: 1}
+    - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}
+    - _TranslucencyColor: {r: 0.73, g: 0.85, b: 0.40999997, a: 1}
+    - _TreeInstanceColor: {r: 1, g: 1, b: 1, a: 1}
+    - _TreeInstanceScale: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
